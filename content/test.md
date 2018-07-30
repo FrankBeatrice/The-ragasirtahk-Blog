@@ -4,4 +4,4 @@ draft = true
 title = "Test"
 
 +++
-BLue Blue Blue
+BLue Blue Blue![](/uploads/unnamed.jpg)
